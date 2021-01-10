@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_211" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="app.first.model.Person">
+    <void property="age">
+     <int>30</int>
+    </void>
+    <void property="name">
+     <string>Sadeta</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <string>123</string>
+    </void>
+    <void property="surname">
+     <string>Sadovic</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="app.first.model.Person">
+    <void property="age">
+     <int>25</int>
+    </void>
+    <void property="name">
+     <string>Amar</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <string>1234</string>
+    </void>
+    <void property="surname">
+     <string>Orucevic</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="app.first.model.Person">
+    <void property="age">
+     <int>37</int>
+    </void>
+    <void property="name">
+     <string>Samira</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <string>12345</string>
+    </void>
+    <void property="surname">
+     <string>Karovic</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="app.first.model.Person">
+    <void property="age">
+     <int>47</int>
+    </void>
+    <void property="name">
+     <string>Selma</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <string>123456</string>
+    </void>
+    <void property="surname">
+     <string>Bajic</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="app.first.model.Person">
+    <void property="age">
+     <int>26</int>
+    </void>
+    <void property="name">
+     <string>Emsada</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <string>1234567</string>
+    </void>
+    <void property="surname">
+     <string>Karic</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="app.first.model.Person">
+    <void property="age">
+     <int>29</int>
+    </void>
+    <void property="name">
+     <string>Samir</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <string>12345678</string>
+    </void>
+    <void property="surname">
+     <string>Alic</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="app.first.model.Person">
+    <void property="age">
+     <int>18</int>
+    </void>
+    <void property="name">
+     <string>Emir</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <string>123456789</string>
+    </void>
+    <void property="surname">
+     <string>Kalas</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="app.first.model.Person">
+    <void property="age">
+     <int>56</int>
+    </void>
+    <void property="name">
+     <string>Ramiz</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <string>123456790</string>
+    </void>
+    <void property="surname">
+     <string>Kamdzic</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
